@@ -1,0 +1,13 @@
+Spektren erzeugt mit Spectral.py, Zeitstempel: 2025-10-20 13:17:33.456176.
+Signal: 100 Datenpunkte, Sample-Rate 100.0 Hz.
+Bedeutung der Spalten:
+0: Index der Fourier-Komponente
+1: Frequenz
+2: Realteil der Fourier-Komponente
+3: Imaginärteil der Fourier-Komponente
+4: Amplitudenspektrum
+5: Leistungsspektrum
+6: Spektrale Leistungsdichte (PSD)
+7: Spektrale Leistungsdichte (PSD) in dBV
+Bemerkung: Nichtvorhandene Einträge wurden mit -1 aufgefüllt,
+           um sie von möglichen Nullen zu unterscheiden.

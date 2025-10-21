@@ -1,0 +1,6 @@
+Synthetische Daten, erzeugt mit Spectral.py, Zeitstempel: 2025-10-20 16:35:11.107005.
+Signal 1: 10.0 Hz, 0.8 V, Offset 0.0 V, Phasenversatz 0.0 Grad.
+Signal 2: 0.0 Hz, 0.0 V, Offset 0.0 V, Phasenversatz 0.0 Grad.
+Rauschen: Gauﬂ mit sigma = 0.0 V.
+Nichtlinearit‰t: "(1-np.exp(-x))/(1+np.exp(-x))".
+Analog-Digital-Wandler: Sample-Rate 500.0 Hz, 16 Bit, n = 200 Datenpunkte.

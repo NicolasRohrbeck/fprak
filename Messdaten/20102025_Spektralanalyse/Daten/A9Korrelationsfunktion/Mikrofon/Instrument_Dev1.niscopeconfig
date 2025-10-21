@@ -1,0 +1,188 @@
+{
+   "formatVersion": 1,
+   "oldestCompatibleFormatVersion": 1,
+   "timeStamp": "2025-10-20T13:34:33.101970",
+   "session": {
+      "channels": "",
+      "optionString": "Simulate=0,RangeCheck=1,Cache=1,DriverSetup=AutoCloseBehavior:AnyProcess;Priority:-10001;Token0:41"
+   },
+   "generatedBy": {
+      "name": "niScopeDMF_aux.dll",
+      "version": "4.5.5f0"
+   },
+   "devices": [
+      {
+         "modelNumber": 29460
+      }
+   ],
+   "attributes": [
+      {
+         "id": 1150001,
+         "name": "NISCOPE_ATTR_HORZ_NUM_RECORDS",
+         "channel": "",
+         "value": 1
+      },
+      {
+         "id": 1150004,
+         "name": "NISCOPE_ATTR_HORZ_ENFORCE_REALTIME",
+         "channel": "",
+         "value": true
+      },
+      {
+         "id": 1150009,
+         "name": "NISCOPE_ATTR_MIN_SAMPLE_RATE",
+         "channel": "",
+         "value": 1000000.0
+      },
+      {
+         "id": 1150067,
+         "name": "NISCOPE_ATTR_USE_SPEC_INITIAL_X",
+         "channel": "",
+         "value": false
+      },
+      {
+         "id": 1150070,
+         "name": "NISCOPE_ATTR_RIS_NUM_AVERAGES",
+         "channel": "",
+         "value": 4
+      },
+      {
+         "id": 1250001,
+         "name": "NISCOPE_ATTR_VERTICAL_RANGE",
+         "channel": "0",
+         "value": 0.2
+      },
+      {
+         "id": 1250001,
+         "name": "NISCOPE_ATTR_VERTICAL_RANGE",
+         "channel": "1",
+         "value": 0.1
+      },
+      {
+         "id": 1250002,
+         "name": "NISCOPE_ATTR_VERTICAL_OFFSET",
+         "channel": "0",
+         "value": 0.0
+      },
+      {
+         "id": 1250002,
+         "name": "NISCOPE_ATTR_VERTICAL_OFFSET",
+         "channel": "1",
+         "value": 0.0
+      },
+      {
+         "id": 1250003,
+         "name": "NISCOPE_ATTR_VERTICAL_COUPLING",
+         "channel": "0",
+         "value": 1
+      },
+      {
+         "id": 1250003,
+         "name": "NISCOPE_ATTR_VERTICAL_COUPLING",
+         "channel": "1",
+         "value": 1
+      },
+      {
+         "id": 1250004,
+         "name": "NISCOPE_ATTR_PROBE_ATTENUATION",
+         "channel": "0",
+         "value": 1.0
+      },
+      {
+         "id": 1250004,
+         "name": "NISCOPE_ATTR_PROBE_ATTENUATION",
+         "channel": "1",
+         "value": 1.0
+      },
+      {
+         "id": 1250005,
+         "name": "NISCOPE_ATTR_CHANNEL_ENABLED",
+         "channel": "0",
+         "value": true
+      },
+      {
+         "id": 1250005,
+         "name": "NISCOPE_ATTR_CHANNEL_ENABLED",
+         "channel": "1",
+         "value": true
+      },
+      {
+         "id": 1250006,
+         "name": "NISCOPE_ATTR_MAX_INPUT_FREQUENCY",
+         "channel": "0",
+         "value": 50000000.0
+      },
+      {
+         "id": 1250006,
+         "name": "NISCOPE_ATTR_MAX_INPUT_FREQUENCY",
+         "channel": "1",
+         "value": 50000000.0
+      },
+      {
+         "id": 1250009,
+         "name": "NISCOPE_ATTR_HORZ_MIN_NUM_PTS",
+         "channel": "",
+         "value": 100000
+      },
+      {
+         "id": 1250011,
+         "name": "NISCOPE_ATTR_HORZ_RECORD_REF_POSITION",
+         "channel": "",
+         "value": 50.0
+      },
+      {
+         "id": 1250012,
+         "name": "NISCOPE_ATTR_TRIGGER_TYPE",
+         "channel": "",
+         "value": 1
+      },
+      {
+         "id": 1250013,
+         "name": "NISCOPE_ATTR_TRIGGER_SOURCE",
+         "channel": "",
+         "value": "0"
+      },
+      {
+         "id": 1250014,
+         "name": "NISCOPE_ATTR_TRIGGER_COUPLING",
+         "channel": "",
+         "value": 1
+      },
+      {
+         "id": 1250015,
+         "name": "NISCOPE_ATTR_TRIGGER_DELAY_TIME",
+         "channel": "",
+         "value": 0.0
+      },
+      {
+         "id": 1250017,
+         "name": "NISCOPE_ATTR_TRIGGER_LEVEL",
+         "channel": "",
+         "value": 0.0
+      },
+      {
+         "id": 1250018,
+         "name": "NISCOPE_ATTR_TRIGGER_SLOPE",
+         "channel": "",
+         "value": 1
+      },
+      {
+         "id": 1250102,
+         "name": "NISCOPE_ATTR_TRIGGER_MODIFIER",
+         "channel": "",
+         "value": 1
+      },
+      {
+         "id": 1250103,
+         "name": "NISCOPE_ATTR_INPUT_IMPEDANCE",
+         "channel": "0",
+         "value": 1000000.0
+      },
+      {
+         "id": 1250103,
+         "name": "NISCOPE_ATTR_INPUT_IMPEDANCE",
+         "channel": "1",
+         "value": 1000000.0
+      }
+   ]
+}

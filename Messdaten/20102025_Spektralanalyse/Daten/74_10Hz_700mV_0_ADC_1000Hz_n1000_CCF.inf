@@ -1,0 +1,6 @@
+Korrelationsfunktionen, erzeugt mit Spectral.py, Zeitstempel: 2025-10-20 15:51:16.266905.
+Das Daten-File enthält je zwei Spalten für: Autokorrelation von A und Kreuzkorrelation von A und B.
+Die jeweils erste Spalte ist der lag in Sekunden, die jeweils zweite Spalte ist der Korrelationswert.
+Die Korrelationsfunktionen wurden nicht normiert.
+Autokorrelationsfunktion von Signal A: Sample-Frequenz 1000.0 Hz, Berechnungsmethode 'biased'.
+Kreuzkorrelationsfunktion der Signale A und B: Sample-Frequenz 1000.0 Hz, Berechnungsmethode 'biased'.
