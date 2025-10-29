@@ -1,0 +1,15 @@
+Histogramm und Wahrscheinlichkeitsdichtefunktion, erzeugt mit Spectral.py, Zeitstempel: 2025-10-29 10:42:02.872097.
+Länge der Zahlenfolge: 6400.
+Bin-Breite: 0.05
+Anzahl der Bins: 152.
+Index der Bin mit Bin-Zentrum Null: [79].
+Anzahl der Bins mit Bin-Zentrum kleiner als Null: 152.
+Anzahl der Bins mit Bin-Zentrum größer als Null: 152.
+----------------------------------------
+Statistische Größen:
+Mittelwert:         0.012269703298260569
+Varianz:            1.006075698295228
+Standardabweichung: 1.003033248848326
+Schiefe:            0.024728890831402516
+Kurtosis:           0.04320451897825661
+----------------------------------------
