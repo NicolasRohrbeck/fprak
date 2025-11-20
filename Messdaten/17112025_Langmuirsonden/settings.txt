@@ -1,0 +1,3 @@
+range = 1E-3
+Anode: lower lim = -15V, upper lim = 0V
+number of points = 2499
